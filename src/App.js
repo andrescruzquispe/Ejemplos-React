@@ -9,7 +9,7 @@ function App() {
         <Testimonio
           nombre="Andrés Eduardo Cruz Quispe"
           pais="Perú"
-          imagen="shawn"
+          imagen="andres"
           cargo="Ingeniero de Sistemas"
           empresa="Empresa de Kdramas"
           testimonio="Da miedo cambiar de carrera. Solo gané la confianza de que podía programar trabajando a través de los cientos de horas de lecciones gratuitas en freeCodeCamp. Dentro de un año tuve un trabajo de seis cifras como ingeniero de software. freeCodeCamp cambió mi vida."/>
