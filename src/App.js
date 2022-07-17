@@ -11,7 +11,7 @@ function App() {
           pais="Perú"
           imagen="shawn"
           cargo="Ingeniero de Sistemas"
-          empresa="Amazon"
+          empresa="Empresa de Kdramas"
           testimonio="Da miedo cambiar de carrera. Solo gané la confianza de que podía programar trabajando a través de los cientos de horas de lecciones gratuitas en freeCodeCamp. Dentro de un año tuve un trabajo de seis cifras como ingeniero de software. freeCodeCamp cambió mi vida."/>
         <Testimonio
           nombre="Sarah Chima"
